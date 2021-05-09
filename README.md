@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hacker6074
 - 👀 I’m interested in becoming a famous hacker
 - 🌱 I’m currently learning basic in Termux
-- 💞️ I’m looking to collaborate on hacking
+- 💞️ I’m looking to collaborate with many organizations
 - 📫 How to reach me on Facebook @victor crown
 
 <!---
